@@ -1,5 +1,7 @@
 # Harada Coach
 
+![Harada Coach: turn any goal into 64 concrete actions](assets/banner.svg)
+
 *[Version française](README.fr.md)*
 
 A Claude skill that walks you step by step through the **Harada Method**: turn an ambitious goal into a concrete action plan, then stick to it over time with routines, a daily diary and a monthly review.
@@ -26,6 +28,8 @@ He then formalized his approach and taught it to Japanese companies. Norman Bode
 It became famous through baseball player **Shohei Ohtani**, who filled in an Open Window 64 chart in high school, aiming to be a first-round draft pick.
 
 > Source: Takashi Harada and Norman Bodek, *The Harada Method, 2nd Edition: The Spirit of Self-Reliance*, PCS Press, 2024. This skill rephrases the method and does not reproduce the book.
+
+> **Unofficial project:** not affiliated with or endorsed by Takashi Harada, the Harada Education Institute or the publishers of *The Harada Method*.
 
 ## What the skill creates
 

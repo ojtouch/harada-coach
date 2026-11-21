@@ -1,5 +1,7 @@
 # Harada Coach
 
+![Harada Coach : transforme n'importe quel objectif en 64 actions concrètes](assets/banner.svg)
+
 *[English version](README.md)*
 
 Un skill pour Claude qui t'accompagne pas à pas dans la **méthode Harada** : transformer un objectif ambitieux en plan d'action concret, puis le tenir dans la durée grâce à des routines, un journal quotidien et une revue mensuelle.
@@ -28,6 +30,8 @@ Il a ensuite formalisé son approche et l'a enseignée à des entreprises japona
 Elle est devenue célèbre grâce au joueur de baseball **Shohei Ohtani**, qui a rempli une grille Open Window 64 au lycée pour viser une sélection en premier tour de draft.
 
 > Source : Takashi Harada et Norman Bodek, *The Harada Method, 2nd Edition: The Spirit of Self-Reliance*, PCS Press, 2024. Ce skill reformule la méthode et ne reproduit pas le livre.
+
+> **Projet non officiel :** ni affilié à Takashi Harada, au Harada Education Institute ou aux éditeurs de *The Harada Method*, ni approuvé par eux.
 
 ## Ce que le skill produit
 
